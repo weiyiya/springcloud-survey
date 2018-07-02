@@ -1,1 +1,2 @@
-port: 7964
+redis:
+  port: 7964
