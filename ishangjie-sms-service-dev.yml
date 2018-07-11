@@ -2,5 +2,5 @@ redis:
   port: 7963
 
 hello: '{cipher}f10f8e64ac2615f4aecffaeaddb5662191e4b87d491b84549c17cc723f689efa'
-msg: native
+msg: git
 
